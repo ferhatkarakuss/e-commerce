@@ -41,9 +41,7 @@ const Navbar = () => {
           className="relative"
         >
           <BsBasketFill size={25} className="cursor-pointer"></BsBasketFill>
-          <span className=" absolute -top-2 -right-3 px-2 bg-red-600 text-white rounded-full text-sm">
-            3
-          </span>
+          <span className=" absolute -top-2 -right-3 px-2 bg-red-600 text-white rounded-full text-sm"></span>
         </div>
       </div>
     </div>
